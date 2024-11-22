@@ -33,7 +33,7 @@ This project demonstrates how to leverage the following technologies:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-repo/MUGS2024dEMO.git
+   https://github.com/Clifftech123/MUGS-Demo.git
     cd MUGS2024dEMO
     ```
 
